@@ -9,7 +9,7 @@
     color:orangered;
 }
 .Sub1{
-    font-family :"inter",sans-serif;
+    font-family :"Inter",sans-serif;
     text-align :left;
 }
 .text1-1{
@@ -37,7 +37,7 @@
     font-weight :500;
 }
 .Sub2{
-    font-family :"inter",sans-serif;
+    font-family :"Inter",sans-serif;
     text-align :left;
 
 }
@@ -81,6 +81,7 @@
     padding-left :40px;
     padding-right :40px;
     background-color :rgb(99, 88, 244);
+
 }
 .box2{
     display :inline-block;
@@ -90,6 +91,7 @@
     padding-right :40px;
     background-color :rgb(99, 88, 244);
     margin-top :100px;
+
 }
 .box3{
     display :inline-block;
